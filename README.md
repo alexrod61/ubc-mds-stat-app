@@ -7,4 +7,4 @@ This repository contains three sample teaching materials. They are part of my ap
 
 Regards,
 
-Gilberto Alexi Rodríguez Arels, Ph.D.
+Gilberto Alexi Rodríguez Arelis, Ph.D.
